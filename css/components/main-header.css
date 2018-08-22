@@ -1,0 +1,34 @@
+.main-header{
+    background-color: #F3F3F4;
+    text-align: center;
+    width: 100%;    
+    height: 460px;
+}
+
+.main-header .logo{
+    height: 37px;	
+    width: 213px;
+    margin-top: 34px;
+    margin-right: 53px;
+    margin-left: 53px;
+    margin-bottom: 58px;
+}
+
+.main-header .title{
+    width: 275px;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 42px;
+    color: #0088EE;
+    text-align: center;
+    display: inline-block;
+    padding-bottom: 30px;
+}
+
+.main-header .subtitle{
+    color: #888888;
+    font-size: 16px;
+    line-height: 24px;
+    margin-left: 23px;
+    margin-right: 22px;
+}
