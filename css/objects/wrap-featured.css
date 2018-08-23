@@ -1,11 +1,20 @@
 .wrap-featured{
-    background-color: #fff; 
-    padding-top: 30px;
+   text-align: center;
+   padding-top: 70px;
+   padding-bottom: 127px;;
     
 }
 
+.wrap-featured .list{
+    display: inline-block;
+    box-sizing: border-box;
+    position: relative;
+    padding-left: 23px;
+    padding-right: 22px;
+}
+
 .wrap-featured .main-figure{
-    text-align: center;
+    max-width: 261px;
 }
 
 .wrap-featured .title{
@@ -13,17 +22,17 @@
     font-weight: 700;
     font-size: 24px;
     color:#0088EE;
-    text-align: center;
     padding-bottom: 10px;
     padding-top: 24.1px;
+    max-width: 261px;
 }
 
 .wrap-featured .description{
     color: #888888;
     font-size: 16px;
     line-height: 24px;
-    margin-left: 23px;
-    margin-right: 22px;
     margin-bottom: 65px;
+    max-width: 261px;
+    display: inline-block;
     text-align: center;
 }
