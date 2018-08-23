@@ -1,4 +1,5 @@
 .main-btn{
+    display: block;
     text-transform: uppercase;
     background-color: #0088EE;
     font-size: 16px;
@@ -8,6 +9,8 @@
     width: 275px;
     margin-top: 35px;
     border: none;
+    margin-left: 50%;
+    transform: translateX(-50%);
 }
 
 .main-btn:hover{
