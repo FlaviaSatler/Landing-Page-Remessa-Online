@@ -1,11 +1,12 @@
 .wrap-services{
     padding-bottom: 40px;
+    text-align: center;
 }
 .wrap-services .text{
     padding-left: 40px;
     color: #fff;
     text-align: left;
-    padding-top: 55%;
+    padding-top: 50%;
 }
 .wrap-services .title{
     font-weight: 700;
@@ -18,14 +19,19 @@
 }
 
 .wrap-services .service1{
-    height: 247px;	
-    width: 320px;
+    display: inline-block;
+    height: 289px;	
+    width: 461.64px;
     margin-bottom: 30px;
-    background-image: url(../../img/services1.png);
+    background-image: url(../../img/services1D.png);
+    background-size: cover;
+    margin-right: 18px;
 }
 
 .wrap-services .service2{
-    height: 247px;	
-    width: 320px;
-    background: linear-gradient(rgba(0, 0, 0,0.6), rgba(0, 0, 0,0.6)), url(../../img/services2.png);
+    display: inline-block;
+    height: 289px;	
+    width: 461.64px;
+    background: linear-gradient(rgba(0, 0, 0,0.6), rgba(0, 0, 0,0.6)), url(../../img/services2D.png);
+    background-size: cover;
 }
