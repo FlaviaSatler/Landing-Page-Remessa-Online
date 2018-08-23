@@ -1,0 +1,28 @@
+.wrap-services .text{
+    padding-left: 40px;
+    color: #fff;
+    text-align: left;
+    padding-top: 55%;
+}
+.wrap-services .title{
+    font-weight: 700;
+    font-size: 24px;
+    margin-bottom: 7px;
+}
+
+.wrap-services .subtitle{
+    font-size: 16px;
+}
+
+.wrap-services .service1{
+    height: 247px;	
+    width: 320px;
+    margin-bottom: 30px;
+    background-image: url(../../img/services1.png);
+}
+
+.wrap-services .service2{
+    height: 247px;	
+    width: 320px;
+    background: linear-gradient(rgba(0, 0, 0,0.6), rgba(0, 0, 0,0.6)), url(../../img/services2.png);
+}

@@ -1,0 +1,28 @@
+.wrap-featured{
+    background-color: #fff; 
+    padding-top: 30px;
+}
+
+.wrap-featured .main-figure{
+    text-align: center;
+}
+
+.wrap-featured .title{
+    height: 32px;
+    font-weight: 700;
+    font-size: 24px;
+    color:#0088EE;
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 24.1px;
+}
+
+.wrap-featured .description{
+    color: #888888;
+    font-size: 16px;
+    line-height: 24px;
+    margin-left: 23px;
+    margin-right: 22px;
+    margin-bottom: 65px;
+    text-align: center;
+}
