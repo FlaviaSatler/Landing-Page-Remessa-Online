@@ -4,6 +4,10 @@
 
 .main-footer .logo{
     margin-top: 40px;
+    text-align: center;
+    display: block;
+    margin-left: 50%;
+    transform: translateX(-50%);
 }
 
 .main-footer .description{
