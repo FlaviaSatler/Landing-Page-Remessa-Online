@@ -2,12 +2,19 @@
     padding-bottom: 40px;
     text-align: center;
 }
+
+.wrap-services a{
+   text-decoration: none;
+   color: inherit;
+}
+
 .wrap-services .text{
     padding-left: 40px;
     color: #fff;
     text-align: left;
     padding-top: 50%;
 }
+
 .wrap-services .title{
     font-weight: 700;
     font-size: 24px;
@@ -36,12 +43,13 @@
     background-size: cover;
 }
 
+/*Seguindo padrão Mobile First*/
 @media only screen and (max-width: 480px) {
     .wrap-services .service1{
     max-width: 100vw;
-}
+    }
 
-.wrap-services .service2{
-    max-width: 100vw;
-}
+    .wrap-services .service2{
+        max-width: 100vw;
+    }
 }

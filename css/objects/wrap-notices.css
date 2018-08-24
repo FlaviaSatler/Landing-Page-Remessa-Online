@@ -2,7 +2,9 @@
     background-color: #F3F3F4;
     text-align: center;
     width: 100%;   
+    padding-bottom: 30px;
 }
+
  .wrap-notices .title{
     font-weight: 700;
     font-size: 24px;
@@ -12,6 +14,7 @@
     padding-bottom: 30px;
     padding-top: 42px;
 }
+
  .wrap-notices .subtitle{
     color: #0088EE;;
     font-size: 18px;
@@ -20,6 +23,7 @@
     padding-bottom: 7px;
     margin-top: 13px;
 }
+
  .wrap-notices .description{
     color: #888888;
     font-size: 16px;
@@ -34,13 +38,14 @@
     width: 227px;
     height: 227px;
 }
-
+/*Seguindo padrão Mobile First*/
 @media only screen and (min-width: 480px) {
     .wrap-notices{
         background-color: #F3F3F4;
         text-align: left;
         width: 100%;  
         display: inline-block;
+        padding-bottom: 0px;
     }
     
     .wrap-notices .title{
@@ -88,18 +93,5 @@
        float: left;
        margin-left: 230px;
     }
-    /* 
-
-    .wrap-notices .left{
-       margin-bottom: 43px;
-       float: left;
-       margin-left: 0;
-   
-    }
-
-    .wrap-notices .main-aside{
-    
-        display: inline-block;
-    } */
 
 }

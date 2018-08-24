@@ -20,3 +20,12 @@
     margin-top: 40px;
     margin-bottom: 48px;
 }
+
+.main-footer a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.main-footer a:hover{
+    color:#0088EE;
+}

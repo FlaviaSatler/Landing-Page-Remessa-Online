@@ -17,7 +17,7 @@
 .main-btn:hover{
     background-color: rgb(2, 113, 199);
 }
-
+/*Seguindo padrão Mobile First*/
 @media only screen and (min-width: 480px){
     .main-btn{
         text-transform: uppercase;
