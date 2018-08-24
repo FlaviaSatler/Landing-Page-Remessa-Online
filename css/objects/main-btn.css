@@ -10,9 +10,27 @@
     margin-top: 35px;
     border: none;
     margin-left: 50%;
-    transform: translateX(-50%);
+    transform: translateX(-50%); 
+    text-align: center;
 }
 
 .main-btn:hover{
     background-color: rgb(2, 113, 199);
+}
+
+@media only screen and (min-width: 480px){
+    .main-btn{
+        text-transform: uppercase;
+        background-color: #0088EE;
+        font-size: 16px;
+        color: #fff;
+        cursor: pointer;
+        height: 48px;	
+        width: 275px;
+        margin-top: 35px;
+        border: none;
+    }
+     .main-btn:hover{
+        background-color: rgb(2, 113, 199);
+    } 
 }
