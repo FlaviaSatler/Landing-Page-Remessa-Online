@@ -11,7 +11,7 @@ itens mais bem organizados na tela confirmaram a escolha.
 
 ## Stacks
 
-A ideia foi desenvolver utilizando HTML e CSS puro, sem a utilização de frameworks ou libs, semanticamente correto e com otimização SEO.
+A ideia foi desenvolver utilizando HTML5 e CSS3 puro, procurando seguir a metodologia do RSCSS - http://rscss.io/ -  combinada com a arquitetura do ITCSS, sem a utilização de frameworks ou libs, semanticamente correto e com otimização SEO.
 
 
 
